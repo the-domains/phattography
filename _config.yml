@@ -1,0 +1,28 @@
+name: Phattography
+favicon: null
+layout_spectrum: 0.7987199786584824
+typography_spectrum: 0.9311111473944038
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.33300733333453536
+  lightness: 0.032550766598433256
+  saturation: 0.8241326990537345
+  rhythmicContrast: 0.285352687118575
+purpose: []
