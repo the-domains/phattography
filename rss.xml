@@ -2,17 +2,17 @@
     <channel>
         <title><![CDATA[Escaping reality through photography]]></title>
         <description><![CDATA[Escaping reality through photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phattography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 21:50:37 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 21:58:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phattography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>On a 10 mile stretch of road between Weed, California, and the last public rest stop on the California side of Hwy 97 is quite possibly my favorite view of the western United States. I have driven through here several times on my way to visit dear friends who live in Bend, Oregon, and I always look forward to reaching this point of the trip. The views in this area are spectacular, weather permitting of course. Today, was no exception.
-</p>]]></description>
-            <link>undefined77e83812-1c6a-4eaa-9480-169251b8ddd8/index.html</link>
+            <title><![CDATA[52-2016]]></title>
+            <description><![CDATA[<article><h1>52-2016</h1><p>On a 10 mile stretch of road between Weed, California, and the last public rest stop on the California side of Hwy 97 is quite possibly my favorite view of the western United States. I have driven through here several times on my way to visit dear friends who live in Bend, Oregon, and I always look forward to reaching this point of the trip. The views in this area are spectacular, weather permitting of course. Today, was no exception.
+</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be594fcd-3521-461e-81ba-cce31d60b655.jpg"></article>]]></description>
+            <link>https://thegrid.ai/phattography/77e83812-1c6a-4eaa-9480-169251b8ddd8/index.html</link>
             <guid isPermaLink="false">77e83812-1c6a-4eaa-9480-169251b8ddd8</guid>
-            <pubDate>Sun, 10 Jan 2016 21:49:58 GMT</pubDate>
+            <pubDate>Sun, 10 Jan 2016 21:58:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
