@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Escaping reality through photography]]></title>
+        <description><![CDATA[Escaping reality through photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 21:50:37 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>On a 10 mile stretch of road between Weed, California, and the last public rest stop on the California side of Hwy 97 is quite possibly my favorite view of the western United States. I have driven through here several times on my way to visit dear friends who live in Bend, Oregon, and I always look forward to reaching this point of the trip. The views in this area are spectacular, weather permitting of course. Today, was no exception.
+</p>]]></description>
+            <link>undefined77e83812-1c6a-4eaa-9480-169251b8ddd8/index.html</link>
+            <guid isPermaLink="false">77e83812-1c6a-4eaa-9480-169251b8ddd8</guid>
+            <pubDate>Sun, 10 Jan 2016 21:49:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
